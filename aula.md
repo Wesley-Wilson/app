@@ -22,3 +22,9 @@ Como um lego, irá utilizar peças para criar um algoritmo, ou seja, para resolv
 Coletar os dados
 Processar os dados (manipular, alterar ...)
 Apresentar os dados 
+
+### functions 
+
+criar, passar argumentos
+executar
+arrow function / named function
