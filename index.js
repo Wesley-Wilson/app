@@ -1,21 +1,9 @@
-// hello world
-let message = "Hello world!"
-console.log(message)
-
-let meta = {
-  value: 'Focar nos estudos',
-  checked: false,
-  metodo: (info) => {
-    console.log(info)
+const looping = () => {
+  let count = 1
+  while(count <= 10){
+    console.log(count)
+    count++
   }
 }
 
-meta.metodo(meta.value)
-
-// function // arrow function
-const criarMeta = () => {
-
-}
-
-// metodo dentro da função. 
-// função fora do método 
+looping()
