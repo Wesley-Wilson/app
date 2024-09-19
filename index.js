@@ -1,9 +1,17 @@
-const looping = () => {
-  let count = 1
-  while(count <= 10){
-    console.log(count)
-    count++
-  }
-}
+const menu = () => {
 
-looping()
+    while(true){
+      let opcao = "sair"
+      switch(opcao) {
+        case "cadastrar":
+          console.log("Vamos cadastrar")
+          break
+        case "listar":
+          console.log("vamos listar")
+          break
+        case "sair":
+          return
+      }
+    }
+}
+menu()

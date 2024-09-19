@@ -9,3 +9,5 @@ Sistema de mensagens
 [x] while
 
 # condicionais 
+
+- [] switch
