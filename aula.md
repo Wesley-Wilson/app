@@ -28,3 +28,24 @@ Apresentar os dados
 criar, passar argumentos
 executar
 arrow function / named function
+
+# Estrutura de repetição 
+
+while
+
+# condicionais 
+
+switch
+
+# Módulos em Node.js:
+
+node package manager
+gerenciador de pacotes do node
+npm install inquirer 
+
+- [x] importação de módulos (require, CommoJS)
+Biblioteca 'Inquirer' para criar prompts interativos
+
+## Programação assíncrona e Promises:
+
+- [x] IUso de funções assíncronas (async /await)

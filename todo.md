@@ -11,3 +11,7 @@ Sistema de mensagens
 # condicionais 
 
 - [] switch
+
+node package manager
+gerenciador de pacotes do node
+npm install inquirer 
