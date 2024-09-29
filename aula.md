@@ -36,6 +36,7 @@ while
 # condicionais 
 
 switch
+controle de fluxo = if/else
 
 # Módulos em Node.js:
 
@@ -49,3 +50,11 @@ Biblioteca 'Inquirer' para criar prompts interativos
 ## Programação assíncrona e Promises:
 
 - [x] IUso de funções assíncronas (async /await)
+
+
+## operadores
+
+operador de comparação ==
+!=
+<=
+>=
