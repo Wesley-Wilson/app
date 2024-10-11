@@ -58,3 +58,7 @@ operador de comparação ==
 !=
 <=
 >=
+
+#WARNING#
+Vídeo 3: 10:48 foi feita uma alteração na função listarMetas
+como o processo continua liso, caso ocorra erro volte para esta etapa.
