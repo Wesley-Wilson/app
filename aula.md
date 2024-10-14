@@ -45,7 +45,14 @@ gerenciador de pacotes do node
 npm install inquirer 
 
 - [x] importação de módulos (require, CommoJS)
-Biblioteca 'Inquirer' para criar prompts interativos
+- [x] Biblioteca 'Inquirer' para criar prompts interativos
+- [x] FS (file system)
+
+## JSON
+
+- [x] Javascript Object Notation (.json)
+- [x] JSON.parse(): transforma de JSON para JS
+- [x]  JSON.stringfy(): transforma de JS para JSON
 
 ## Programação assíncrona e Promises:
 
@@ -62,3 +69,6 @@ operador de comparação ==
 #WARNING#
 Vídeo 3: 10:48 foi feita uma alteração na função listarMetas
 como o processo continua liso, caso ocorra erro volte para esta etapa.
+
+json
+javascript object notation
