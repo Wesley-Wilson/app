@@ -3,7 +3,7 @@
   [x] metas realizadas
   [x] metas abertas
 [x] Marcar/Desmarcar metas realizadas
-Remover metas
+[x] Remover metas
 Sistema de mensagens
 
 [x] while
@@ -15,3 +15,6 @@ Sistema de mensagens
 node package manager
 gerenciador de pacotes do node
 npm install inquirer 
+
+sistema de mensagens se consiste em deletar o histórico de informações que o usuário deixa de rastro.
+Para deixar uma aparência clean em sua tela.
